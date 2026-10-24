@@ -4,7 +4,7 @@
 
 Neraptic is a web application for augmentative and alternative communication (AAC). People can explore a visual vocabulary, compose a message, and speak it aloud. This repository presents the product, explains selected engineering decisions, and includes a small, runnable example of the core interaction.
 
-[Try the sample](https://eduardolex.github.io/neraptic-showcase/) · [Open the full app](https://neraptic.com/neraptic-aac/guest) · [Run locally](#run-the-sample) · [Architecture](docs/architecture.md) · [Engineering decisions](docs/engineering-decisions.md)
+[Open the full app](https://neraptic.com/neraptic-aac/guest) · [Run locally](#run-the-sample) · [Architecture](docs/architecture.md) · [Engineering decisions](docs/engineering-decisions.md)
 
 ![Neraptic guest communication board on desktop](screenshots/neraptic-desktop.png)
 
