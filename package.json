@@ -1,0 +1,14 @@
+{
+  "name": "neraptic-showcase",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Neraptic engineering case study and a standalone bilingual AAC board demo.",
+  "workspaces": ["examples/aac-board"],
+  "engines": {"node": ">=22.12.0"},
+  "scripts": {
+    "dev": "npm run dev --workspace=@neraptic/aac-board-demo",
+    "build": "npm run build --workspace=@neraptic/aac-board-demo",
+    "preview": "npm run preview --workspace=@neraptic/aac-board-demo",
+    "test": "npm run test --workspace=@neraptic/aac-board-demo"
+  }
+}
